@@ -1,7 +1,7 @@
 # wp-woo-catalog-mode — Agent Operating Guide
 
 AGPL-3.0-or-later WordPress plugin (requires WooCommerce): per-product hidden prices and blocked purchase for WooCommerce.
-README.md is the contract. PHP rules: `/home/jameson/Source/ai-prompts/php.md`.
+README.md is the contract. PHP rules: SOP *Stack Standards → PHP*.
 
 ## Layout
 
